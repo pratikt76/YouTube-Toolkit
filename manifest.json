@@ -1,0 +1,14 @@
+{
+  "name": "YT Hacker",
+  "description": "Heck the youtube",
+  "version": "1.0",
+  "manifest_version": 2,
+  "icons": {
+    "128": "logo.png"
+  },
+  "background": {
+    "scripts": ["bg.js"],
+    "persistent": false
+  },
+  "permissions": ["https://www.youtube.com/", "tabs"]
+}
