@@ -1,6 +1,6 @@
 {
-  "name": "YT Hacker",
-  "description": "Heck the youtube",
+  "name": "YT Toolkit",
+  "description": "Enable awesome features on youtube web",
   "version": "1.0",
   "manifest_version": 2,
   "icons": {
