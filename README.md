@@ -2,7 +2,9 @@
 
 All in one YouTube Toolkit
 
-https://user-images.githubusercontent.com/96099806/205638361-a64b8642-fca7-42b3-8e1f-e9638fdfe379.mp4
+## Preview
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/96099806/205926766-9e1ad0c5-9bde-44fe-a86e-aef30bc89218.gif)
+
 
 
 ## Contributors 
